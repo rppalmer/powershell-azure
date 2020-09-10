@@ -49,7 +49,6 @@
     The above will loop through all flow logs in the specified storage account for the listed NSGs, get the past two hours of logs and export to script root.
 
 .NOTES
-    AUTHOR  : Ryan Palmer
 
     Requires: Az.Storage
 #>
